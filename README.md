@@ -18,4 +18,7 @@
 
 <br>
 <br>
-🎰 **Bonus points** : Add your favorite animations, assets, images, or other visual effects you like. Make this your own and show us what you like to build!
+
+🎰 **Bonus Points**<br>
+Add your favorite animations, assets, images, or other visual effects you like. Make this your own and show us what you like to build!
+
