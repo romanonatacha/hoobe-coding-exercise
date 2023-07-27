@@ -16,5 +16,6 @@
 
 [Page data](pageData.json): this is API response data that is used to build the page.
 
-
-🎰 Bonus points: Add your favorite animations, assets, images, or other visual effects you like. Make this your own and show us what you like to build!
+<br>
+<br>
+🎰 **Bonus points** : Add your favorite animations, assets, images, or other visual effects you like. Make this your own and show us what you like to build!
