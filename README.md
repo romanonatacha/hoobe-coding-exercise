@@ -12,6 +12,6 @@
 🏗️ Here is a hoo.be page in our development environment: https://devapp.hoo.be/hoobe_coding_exercise. Using React, Nextjs, SCSS, and any other technologies or libraries you like, build a copy of this page. 
 
 ### Assets
- These assets will help you with your task
+[The assets](/assets): these will assist you with generating the content on the page.
 
-[Page data](pageData.json): this is API response data that is used to build the page
+[Page data](pageData.json): this is API response data that is used to build the page.
