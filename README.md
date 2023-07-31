@@ -4,9 +4,9 @@
 🤖 The developers on hoo.be's dev team operate with lots of autonomy, and we hope this coding exercise will give you an opportunity to work independently and show us your skills and familiarity with HTML, SCSS, React, and any other technologies you like to use.
 
 ## Output 
-🚢 The total time we want you to spend on this is no more than 5 hours. We are not basing your success on how long this takes you, this is meant for us to see your coding style and experience with the different front-end technologies we use. Please bill us for only the number of hours you used to complete the project.
+🚢 The total time we want you to spend on this is no more than 5 hours. We are not basing your success on how long this takes you, this is an opportunity for you to demonstrate you coding style and experience with the front-end technologies we use. Please bill us for only the number of hours you used to complete the project.
 
-🏁 Once you have completed the test, please submit a public Github repository, directions on how to view the results, and send us an invoice for your time.
+🏁 Once you have completed the test, please submit a link to a public Github repository that includes directions on how to preview the work, and send us an invoice for your time.
 
 ## The exercise
 🏗️ Here is a hoo.be page in our development environment: https://devapp.hoo.be/hoobe_coding_exercise. Using React, Nextjs, SCSS, and any other technologies or libraries you like, build a copy of this page. 
@@ -20,5 +20,5 @@
 <br>
 
 🎰 **Bonus Points**<br>
-Add your favorite animations, assets, images, or other visual effects you like. Make this your own and show us what you like to build!
+Add your favorite animations, assets, images, UX improvements, or other visual effects you like. Make this your own and show us what you like to build!
 
