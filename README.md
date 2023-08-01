@@ -11,6 +11,8 @@
 ## The exercise
 🏗️ Here is a hoo.be page in our development environment: https://devapp.hoo.be/hoobe_coding_exercise. Using React, Nextjs, SCSS, and any other technologies or libraries you like, build a copy of this page. 
 
+You can fork this repo or create your own repo and copy over the assets. 
+
 ### Assets
 [The assets](/assets): these will assist you with generating the content on the page.
 
