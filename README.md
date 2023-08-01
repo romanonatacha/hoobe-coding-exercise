@@ -1,7 +1,7 @@
 # hoobe-coding-exercise
 🚀 Thank you for applying to hoo.be, we are glad you're here! 
 
-🤖 The developers on hoo.be's dev team operate with lots of autonomy, and we hope this coding exercise will give you an opportunity to work independently and show us your skills and familiarity with HTML, SCSS, React, and any other technologies you like to use.
+🤖 The developers on hoo.be's dev team operate with lots of autonomy, and we hope this coding exercise will give you an opportunity to work independently and show us your skills and familiarity with React, Typescript, SCSS, and any other technologies you like to use.
 
 ## Output 
 🚢 The total time we want you to spend on this is no more than 5 hours. We are not basing your success on how long this takes you, this is an opportunity for you to demonstrate you coding style and experience with the front-end technologies we use. Please bill us for only the number of hours you used to complete the project.
