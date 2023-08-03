@@ -17,8 +17,6 @@ const Home = () => {
       })
   }, [])
 
-  console.log(isLoading);
-
   if (isLoading) return <p>L O A D I N G . . .</p>
 
   if (!data) return <p>No profile data</p>
