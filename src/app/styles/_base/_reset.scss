@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    overflow-x: hidden;
+}
+
+a, a:hover {
+    text-decoration: none;
+    color: unset !important;
+}
+
+ul {
+    margin: 0;
+}
+
+li {
+    list-style: none;
+}

@@ -1,0 +1,26 @@
+.c-footer {
+    margin-top: 96px;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+
+    @include mobile {
+        margin-top: 18px;
+    }
+
+    &__link {
+        color: $text-color-med;
+        font-weight: 600;
+        font-size: 14px;
+        cursor: pointer;
+
+        &:hover {
+            color: $primary;
+            text-decoration: underline;
+        }
+    }
+}

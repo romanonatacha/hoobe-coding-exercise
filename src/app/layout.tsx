@@ -1,8 +1,6 @@
-import type { Metadata } from 'next'
-import { Inter } from 'next/font/google'
 import './styles/app.scss'
-
-const inter = Inter({ subsets: ['latin'] })
+import type { Metadata } from 'next'
+import 'animate.css'
 
 export const metadata: Metadata = {
   title: 'Create Next App',

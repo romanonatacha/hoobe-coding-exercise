@@ -1,0 +1,38 @@
+@mixin desktop {
+    @media screen and (min-width: 1025px) {
+        @content
+    }
+}
+
+@mixin tablet-desktop {
+    @media screen and (min-width: 768px) {
+        @content
+    }
+}
+
+@mixin tablet-mobile {
+    @media screen and (max-width: 1024px) {
+        @content
+    }
+}
+
+@mixin tablet {
+    @media screen
+    and (min-device-width: 768px) 
+    and (max-device-width: 1366px)
+    and (-webkit-min-device-pixel-ratio: 2) {
+        @content
+    }
+}
+
+@mixin mobile {
+    @media screen and (max-width: 767px) {
+        @content
+    }
+}
+
+@mixin mobile-navbar {
+    @media screen and (max-width: 991px) {
+        @content
+    }
+}

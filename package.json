@@ -12,10 +12,13 @@
     "@types/node": "20.4.5",
     "@types/react": "18.2.18",
     "@types/react-dom": "18.2.7",
+    "add": "^2.0.6",
+    "animate.css": "^4.1.1",
     "next": "13.4.12",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "sass": "^1.64.2",
-    "typescript": "5.1.6"
+    "typescript": "5.1.6",
+    "yarn": "^1.22.19"
   }
 }

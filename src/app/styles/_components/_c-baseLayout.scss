@@ -1,0 +1,11 @@
+.c-base-layout {
+    padding: 42px 0;
+    max-width: $container-width;
+    width: 100%;
+    margin: 0 auto;
+
+    @include mobile {
+        padding: 0 0 42px;
+        max-width: 100%;
+    }
+}

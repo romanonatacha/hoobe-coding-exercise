@@ -1,0 +1,28 @@
+html {
+    min-height: 100%;
+    overflow-x: hidden;
+}
+
+body {
+    background: $body-bg;
+    min-height: 100vh;
+    height: 100%;
+    width: 100%;
+    font-family: $font-primary;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    @include mobile {
+        background-color: $box-bg;
+    }
+}
+
+a {
+    color: $text-color-med !important;
+
+    &:hover {
+        color: $primary !important;
+        text-decoration: underline;
+    }
+}

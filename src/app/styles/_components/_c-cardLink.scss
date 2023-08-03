@@ -1,0 +1,37 @@
+.c-card-link {
+    display: block;
+    border-radius: 12px;
+    display: flex;
+    align-items: flex-end;
+    overflow: hidden;
+    position: relative;
+    aspect-ratio: 520 / 293;
+    
+    &:hover {
+        .c-card-link__footer__title {
+            transform: scale(1.2);
+            
+        }
+    }
+
+   &__bg-img {
+        width: 100%;
+    }
+    
+    &__footer {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 24px;
+        width: 100%;
+        position: absolute;
+        bottom: 0;
+        
+        &__title {
+            transition: transform .2s ease-in-out;
+            color: $text-color-light;
+            font-size: 14px;
+            font-weight: 700;
+        }
+    }
+}

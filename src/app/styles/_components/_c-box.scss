@@ -1,0 +1,13 @@
+.c-box {
+    background-color: $box-bg;
+    border-radius: 40px;
+    box-shadow: 0 0.75rem 44px 0 rgba(78,81,82,.12);
+    padding: 32px 72px 72px;
+    width: 100%;
+
+    @include mobile {
+        box-shadow: none;
+        border-radius: 0;
+        padding: 32px 16px 72px;
+    }
+}
