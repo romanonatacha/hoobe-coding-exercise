@@ -1,5 +1,4 @@
 Upwork Coding Task for Hoo.be
-
 ==============
 
 ## Run the Application localy
